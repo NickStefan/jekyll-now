@@ -6,7 +6,7 @@
 name: Nick Stefan
 
 # Short bio or description (displayed in the header)
-description: Backend Engineer @ https://brandcast.com
+description: Backend Engineer @ <a href="https://brandcast.com">Brandcast</a>
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
